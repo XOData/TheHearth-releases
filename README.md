@@ -39,8 +39,13 @@ settings are kept (they live in your `WTF` folder, not the addon folder).
 
 ## Bugs
 
-Type **/hearth bug** in game, copy the report, and post it in the CurseForge
-comments, or open an Issue here. Reports contain no player names.
+Type **/hearth bug** in game, describe what happened, click **Select all to
+copy**, press Ctrl+C, then **[open a bug report](https://github.com/XOData/TheHearth-releases/issues/new/choose)**
+and paste it. Reports contain no player names, and nothing is ever sent
+automatically. Ideas are welcome there too.
+
+Found a way to cheat? Please don't post it publicly. Use
+[private reporting](https://github.com/XOData/TheHearth-releases/security/advisories/new) instead.
 
 ---
 

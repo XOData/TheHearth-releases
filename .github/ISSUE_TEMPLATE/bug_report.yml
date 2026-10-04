@@ -1,0 +1,28 @@
+name: Bug report
+description: Something broke or behaved oddly in The Hearth.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! In game, type **/hearth bug** (or click the bug tab), describe what
+        happened, press **Select all to copy**, then Ctrl+C and paste it below.
+        The report has no player names in it. Please don't add any either.
+  - type: textarea
+    id: report
+    attributes:
+      label: Report from /hearth bug
+      description: Paste the whole thing. It starts with "The Hearth".
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What were you doing?
+      description: Which game, playing or watching, what you clicked just before.
+  - type: dropdown
+    id: again
+    attributes:
+      label: Can you make it happen again?
+      options: ["Every time", "Sometimes", "Only once"]
