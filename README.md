@@ -39,8 +39,8 @@ settings are kept (they live in your `WTF` folder, not the addon folder).
 
 ## Bugs
 
-Type **/hearth bug** in game, describe what happened, click **Select all to
-copy**, press Ctrl+C, then **[open a bug report](https://github.com/XOData/TheHearth-releases/issues/new/choose)**
+Type **/hearth bug** in game, describe what happened, click **Copy report**,
+press Ctrl+C, then **[open a bug report](https://github.com/XOData/TheHearth-releases/issues/new/choose)**
 and paste it. Reports contain no player names, and nothing is ever sent
 automatically. Ideas are welcome there too.
 

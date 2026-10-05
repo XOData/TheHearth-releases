@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks! In game, type **/hearth bug** (or click the bug tab), describe what
-        happened, press **Select all to copy**, then Ctrl+C and paste it below.
+        happened, click **Copy report**, press Ctrl+C and paste it below.
         The report has no player names in it. Please don't add any either.
   - type: textarea
     id: report
